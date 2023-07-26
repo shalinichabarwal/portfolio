@@ -1,11 +1,18 @@
 #g {
   background-color: green;
+  
 }
 #y {
   background-color: yellow;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
 }
 #o {
   background-color: orange;
+  width: 100%;
+  display:flex;
+  flex-wrap: nowrap;
 }
 
 h1{
